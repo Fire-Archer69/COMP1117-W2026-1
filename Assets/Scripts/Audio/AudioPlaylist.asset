@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2bb8bd14363eb47409494ec90d8b66d9, type: 3}
   m_Name: AudioPlaylist
   m_EditorClassIdentifier: 
-  menuTheme: {fileID: 0}
-  levelTheme: {fileID: 0}
-  jump: {fileID: 0}
+  menuTheme: {fileID: 8300000, guid: e3a3c189707700c4da6d1d4438a26986, type: 3}
+  levelTheme: {fileID: 8300000, guid: d35e11a290522154ebfccb91f1c72be9, type: 3}
+  jump: {fileID: 8300000, guid: 7e26c9daf4c32483b9c2790e662d3f1b, type: 3}
